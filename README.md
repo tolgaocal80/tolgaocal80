@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tolgaocal80
 - 📫 How to reach me : tolgaocal80@gmail.com
 
-Android Mobile Developer, Engineer, 
+Android Mobile Developer, Electronical-Comm. Engineer, 
 I love to working on interesting projects
 
 <!---
